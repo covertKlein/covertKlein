@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @covertKlein
 - 👀 I’m interested in Web 3.0, Cryptography, and automation!
-- 🌱 I’m currently learning bash and C# 
+- 🌱 I’m currently learning Bash and C# 
 - 💞️ I’m looking to collaborate on web 3.0 dapps!
 - 📫 How to reach me: Twitter @RayNetTwitch
 
